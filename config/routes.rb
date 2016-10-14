@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
   root 'welcome#index'
+  
+  get 'welcome/work01'
 
   # root 'home#index'
   # # root 'home#index_1'
