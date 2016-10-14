@@ -3,4 +3,8 @@ class WelcomeController < ApplicationController
   end
   def work01
   end
+  def about
+  end
+  def work
+  end
 end
